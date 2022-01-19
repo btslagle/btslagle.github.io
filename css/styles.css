@@ -20,7 +20,7 @@ h1 {
     color: black;
     font-family:  sans-serif;
     margin: 2em ;
-    text-align: left;
+    text-align: justify;
     size: 64px;
     max-width: 900px;
     min-width: 900px;
@@ -90,6 +90,7 @@ ul {
 
 }
 
+
 ul>li {
     padding: 5px;
     text-align: center;
@@ -114,6 +115,7 @@ ul>li {
 
 nav {
     display: flex;
+    
                                  
     
     
@@ -124,9 +126,9 @@ nav {
     border-style: double;
     border-color: white;
     height: 300px;
-    width: 300px;
+    width: auto;
     float: left;
-    margin: 2em;
+    margin:  2em;
     
 }
 
@@ -161,6 +163,7 @@ p {
     text-decoration: none;
     flex-wrap: wrap;
     border-bottom: white;
+   
      
 }
 #history {
@@ -178,6 +181,8 @@ p {
 }
 
 #footer {
+    margin-top: 3em;
     text-align: left;
-    clear: left;
+    clear: all;
+    padding-bottom: 100px;
 }
