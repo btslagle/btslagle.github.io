@@ -28,18 +28,24 @@ h1 {
    
     
     
-}
+}c
 
 #creative {
     color: black;
     font-family:  sans-serif;
-    margin: 2em ;
+    margin: 2em;
     text-align:center;
     size: 64px;
-    max-width: 900px;
-    min-width: 900px;
+    padding-left: 6em;
+    
     
 }
+#pc1 {
+    text-align: center;
+    padding-left: 8em;
+    
+}
+
 .container {
     display:flex;
     align-items: center;
