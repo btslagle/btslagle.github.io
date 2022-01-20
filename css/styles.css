@@ -55,6 +55,11 @@ h1 {
     background-color: rgb(107, 107, 107);
 
 }
+
+h3 {
+    color: black;
+    text-align:justify;
+}
 img {
    height: 19em;
    width: 19em;
